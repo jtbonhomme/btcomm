@@ -1,0 +1,22 @@
+{
+  "name": "btcomm",
+  "version": "0.0.1",
+  "description": "",
+  "bin": "./index.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtbonhomme/btcomm.git"
+  },
+  "keywords": [
+    "bluetooth",
+    "communication",
+    "terminal",
+    "cli"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean-Thierry Bonhomme <jtbonhomme@gmail.com>",
+  "license": "ISC"
+}
